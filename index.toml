@@ -321,6 +321,11 @@ hash = "447ec530620e3c0da62316cb3358e43c15132084aab22ba992fefac199ca92a9"
 metafile = true
 
 [[files]]
+file = "mods/durability-begone.pw.toml"
+hash = "e791199c154156d78c58935527c86a153ce9d1f3216381e733fb0b3107909bf5"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "4effaea1cdc0ccd0de4a94ab435cc3cb22085933fca7e1dd35b9fb8953a1ce9e"
 metafile = true
@@ -338,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-disable-tag.pw.toml"
+hash = "b23dfe908764a8887a79b3432a9fdfdc006ddac66fccad3ded62c66d3319823a"
 metafile = true
 
 [[files]]
@@ -738,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
+file = "mods/stdrdc.pw.toml"
+hash = "8f523e213c86a3277a00ce7196e26f714dd9b2fdc753f15862a5605784cf592e"
 metafile = true
 
 [[files]]
