@@ -616,6 +616,11 @@ hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
 metafile = true
@@ -808,11 +813,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "58eb7f330c8e2158385fda1a391b1a93faf36459f8d25ccb482e26ce885deb5e"
-metafile = true
-
-[[files]]
-file = "mods/xxl-packets.pw.toml"
-hash = "eeaa063034a4c98cf7387245b3c628b020fcb0bfece466abb816576bbb0edae7"
 metafile = true
 
 [[files]]
