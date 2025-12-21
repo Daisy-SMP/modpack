@@ -17,6 +17,10 @@ file = "config/resourcepackoverrides.json"
 hash = "6a060d3db4d1eae4a5357df04058c429e6155b1659dea70f8c896dbe095cf3b3"
 
 [[files]]
+file = "config/stackdeobf.json"
+hash = "64dc926769788fe632c071b6c40dca93653b5d6ed4def2a085a100f3dd3cd622"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -888,4 +892,4 @@ metafile = true
 
 [[files]]
 file = "servers.dat"
-hash = "eaee786c664292119bf9b50919f6ec7fd57cb4f78967938e1281a3c3b076f541"
+hash = "e98e8bf6656d4b6bc2f2620cdf764d49b400f59ec5c3da187c87da204882b571"
