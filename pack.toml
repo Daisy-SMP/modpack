@@ -1,12 +1,12 @@
-name = "Petal SMP Modpack"
+name = "Daisy SMP Modpack"
 author = "macuguita"
-version = "2.0.0"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6503a092f5a26d460c7557697c171399b4ff92543466542163955dd841f2c8bf"
+hash = "d83db5b8881b262866cc9d9c1324d8f6d50dc62b29bda9eb76da89c48842e856"
 
 [versions]
 fabric = "0.18.3"

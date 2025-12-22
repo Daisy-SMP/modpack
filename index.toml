@@ -301,6 +301,11 @@ hash = "4939c4a178d210bc49aa3226a919ad188c94fa821eedfaaccbcf851e980cddde"
 metafile = true
 
 [[files]]
+file = "mods/daisy-smp-tweaks.pw.toml"
+hash = "cb45e0e8fa5ed6a488f53a04cec60e5755dc29b8aa8876cbdd0208461f3e2172"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "e811185f1b2c3d26c5bb3dfcab59d1e86dee35815f7f25a10efec48cf4f48b4e"
 metafile = true
@@ -643,11 +648,6 @@ metafile = true
 [[files]]
 file = "mods/particular.pw.toml"
 hash = "9bceeadea46405d869a5b781efb109ac9fd7b4455c9c536092ccc93a135bad96"
-metafile = true
-
-[[files]]
-file = "mods/petal-smp-tweaks.pw.toml"
-hash = "5fec6927060cacd0680247ccb33262adfd3d4b6a93558e6804967f73f0a5ecbd"
 metafile = true
 
 [[files]]
