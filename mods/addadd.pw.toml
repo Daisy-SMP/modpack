@@ -1,0 +1,13 @@
+name = "Additional Additions"
+filename = "additionaladditions-fabric-10.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R4TvILfj/versions/Gup5m8dZ/additionaladditions-fabric-10.0.1.jar"
+hash-format = "sha512"
+hash = "7aac412c97cfe745d669c629aa85af29d2012a8fabb7eac203a51cfcd312aa88102e54f200e24c9b4e3b1ebd58285d280ab602e636aeb6d96b8c1f23934f4c80"
+
+[update]
+[update.modrinth]
+mod-id = "R4TvILfj"
+version = "Gup5m8dZ"

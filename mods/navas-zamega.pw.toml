@@ -1,0 +1,13 @@
+name = "[Cobblemon] Navas' ZAmega"
+filename = "zamega-fabric-1.4.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/8bNGaeNc/zamega-fabric-1.4.7.jar"
+hash-format = "sha512"
+hash = "60e6a21abc39542c398210b38e95e6a4efd7136e46cd792d1b3d081492e01c09ea2468128c7472e801a6283e4c60e353fd88a0dff62af51adc25b86cb5efd288"
+
+[update]
+[update.modrinth]
+mod-id = "2V1Y86sc"
+version = "8bNGaeNc"

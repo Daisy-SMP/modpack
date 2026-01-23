@@ -1,12 +1,12 @@
 name = "Daisy SMP Modpack"
 author = "macuguita"
-version = "3.0.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5d211935b89d008923a7c8786ec8a0d7a041f51df4764a706d880cf9527f4363"
+hash = "4c27d1ead6c4e1b1199d52d07db3b64c7b19b566200c0527b16c2198ef2e118f"
 
 [versions]
 fabric = "0.18.4"

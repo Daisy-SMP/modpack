@@ -1,0 +1,13 @@
+name = "[Let's Do] Alpine Whispers"
+filename = "letsdo-alpinewhispers-fabric-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SSPTBIrB/versions/zNxGTDXB/letsdo-alpinewhispers-fabric-1.0.2.jar"
+hash-format = "sha512"
+hash = "d310267d6efd643e59da50f6276dd92d692f644bf4a4128dba4d49ef6f270e84fd6e638a102ee5495665382601e128769a163541293c0144ba899e9e624f37c4"
+
+[update]
+[update.modrinth]
+mod-id = "SSPTBIrB"
+version = "zNxGTDXB"
