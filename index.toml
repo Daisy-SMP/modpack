@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "830fc8d0cc200591348e2cd530b58cbd43d23fcc67a6f6d40abed5f143c1720f"
+hash = "16f2bbed1276d2334cf21406b2b592999a5934a27a09179df659be3c3df27027"
 
 [[files]]
 file = "config/stackdeobf.json"
@@ -627,6 +627,11 @@ hash = "48f2e547e948f46ff1229eab353260f62ce3a07910755089035ad4f73e8fc63d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/complete-cobblemon-collection-myths-and-legends-compat.pw.toml"
+hash = "f4b5e7eeaa2396be5c1a09625f6735ff12190b28b81d4aeaf46ac4972a54a587"
+metafile = true
+
+[[files]]
 file = "resourcepacks/deep-grass.pw.toml"
 hash = "ec44805d5d0e53ad7da58b94a9f721ef19dbde7355e1a126f69642aefd0a6caa"
 metafile = true
@@ -659,6 +664,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "ae031c20f87c9c31796ac6effc2a6b43e85f08aa9ce71cdea0565257286b4fe2"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/complete-cobblemon-collection-myths-and-legends-compat.pw.toml"
+hash = "f4b5e7eeaa2396be5c1a09625f6735ff12190b28b81d4aeaf46ac4972a54a587"
 metafile = true
 
 [[files]]
