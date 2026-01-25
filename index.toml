@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "ce072e830cb90bb7bf1c3aff3e1083a4101ec74e597b9edd977b1b4a52a803c5"
+hash = "eea1bb80a4a93569d6030cc2e98ace11df26b7440e251f11229635f017576bfb"
 
 [[files]]
 file = "config/stackdeobf.json"
