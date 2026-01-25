@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "eea1bb80a4a93569d6030cc2e98ace11df26b7440e251f11229635f017576bfb"
+hash = "c1da182b0449b1fd1b7b7ea0b929957678c845f2bf92f53785e24297bde9ac30"
 
 [[files]]
 file = "config/stackdeobf.json"
@@ -156,11 +156,6 @@ hash = "3ac96c797cca7691c93e820e2873da48d4f73c3d7f111d672ccaa35c9eb74eb3"
 metafile = true
 
 [[files]]
-file = "mods/balm.pw.toml"
-hash = "a9f6cf1a98bc318c887b672aecaff6ffdbf33a6ec06af5f2686b292988d0846e"
-metafile = true
-
-[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "0fef7a2e43b7c9ec1306a6750cc734214df1be9768a0d4ffaa011508fb706260"
 metafile = true
@@ -211,13 +206,8 @@ hash = "75d1469e8b306bf5dc3ca3d8c2c9d92a68071d0fee69a421a26b54b63da3b662"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-journey-mounts.pw.toml"
-hash = "6f434aa75689237a62052e70721a317f2dae34bc52be92ee1e3eab84bf5cce8a"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "91fd5470154759d64c3294a951d765153d6c404c1c11171ed0c3c2eff4c4c871"
+hash = "972a8b29551ffd24eeb03c23dc55d66a2dabcce4a433071eb9b41a0499e79583"
 metafile = true
 
 [[files]]
@@ -243,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
-metafile = true
-
-[[files]]
-file = "mods/comforts.pw.toml"
-hash = "0d10973de4466406d116a7c0d976c7c7830e65510ad06b6c83e72b0310e09ad4"
 metafile = true
 
 [[files]]
@@ -383,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/framework.pw.toml"
 hash = "7b65b2c82aabb6fe1b97b1f6aa29f870c5dfcbee514ae8a2e5520164ce9f8861"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "7308954ec68ead6840f1c5774a7b1465c0f8c8f8cf110ee8ba77952229930ffa"
 metafile = true
 
 [[files]]
@@ -651,6 +641,16 @@ hash = "27f2a11921312246d216d0c0c021f9c2602e5a06fb17ba6f8c12ee8542d8826a"
 metafile = true
 
 [[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "a937ed97bb53d8f02b2debc9413dcaaad9235c28d44dfe7faa42b9cc0ef940c8"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "17058653782f00f2ef41bf069374ad368007726722ef8bf72aaa304836627b9d"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
@@ -676,6 +676,11 @@ hash = "9e2e202df1d2939d243f76ec48c5f92d8d13ad54d65065d07e134ad3ea33f558"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "ec566790c54fbf4081491eea296dfd3baf1b952abd1994ac0e6f448dd1f63f56"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "857220cbd9e3ae276ec2a8ec2c6b2e6ee79a53b4727739bec3e42ec1e8f625c2"
 metafile = true
@@ -698,11 +703,6 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "5b27aeb2db9d4a77b78ec6d0b86a4b5c71d14b844e281731cbf07c6133ca88ef"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "d9b210470eeaca6109002dcc8c1442dbbef5468bbf7be516651e7fc25b3d5c5e"
 metafile = true
 
 [[files]]
@@ -811,13 +811,13 @@ hash = "2709ce9505c0a00b9406f83eb4bc158f5cad773b96fc3826c88dca45d65876cd"
 metafile = true
 
 [[files]]
-file = "resourcepacks/better-leaves.pw.toml"
-hash = "1c0c8aae4dfc2193e4c29a0b107a429338bf91dcc569077a0bec4affd99b2731"
+file = "resourcepacks/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "abb4a398228aae327f47c0a3afff1a833f7ef541d42088f9a0f12a20dd705e08"
 metafile = true
 
 [[files]]
-file = "resourcepacks/ccc-journeymounts-compat.pw.toml"
-hash = "254599372892d711b473c8ea9c6a50ed6ffd2f19f1d76f63ab97100bde6c79f8"
+file = "resourcepacks/better-leaves.pw.toml"
+hash = "1c0c8aae4dfc2193e4c29a0b107a429338bf91dcc569077a0bec4affd99b2731"
 metafile = true
 
 [[files]]
@@ -838,21 +838,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/cobblemon-interface.pw.toml"
 hash = "8e1664406cbe141d1153b495b5f95197d33024280728b2c7e50f4427206e11f4"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cobblemon-journey-mounts.pw.toml"
-hash = "495dbcd2926317ed19cd5b6010a126278e756e59cd3971d9269874bb26c52d15"
-metafile = true
-
-[[files]]
-file = "resourcepacks/comforts-modernized.pw.toml"
-hash = "48f2e547e948f46ff1229eab353260f62ce3a07910755089035ad4f73e8fc63d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/complete-cobblemon-collection-myths-and-legends-compat.pw.toml"
-hash = "f4b5e7eeaa2396be5c1a09625f6735ff12190b28b81d4aeaf46ac4972a54a587"
 metafile = true
 
 [[files]]
@@ -888,6 +873,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "59ca90cb58fbcf1b50f23496492e5abb23139c829287571a40eac41e27317478"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/allthemons-x-mega-showdown-legacy.pw.toml"
+hash = "4c44b7dacdcddea88d756cd2d643479b094299a8c314da7b1b635f9925b8017d"
 metafile = true
 
 [[files]]
