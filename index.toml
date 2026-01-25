@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "16f2bbed1276d2334cf21406b2b592999a5934a27a09179df659be3c3df27027"
+hash = "ce072e830cb90bb7bf1c3aff3e1083a4101ec74e597b9edd977b1b4a52a803c5"
 
 [[files]]
 file = "config/stackdeobf.json"
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "64001ebdea9c45ec30b669fe28b2f880cc135c2f44721a759967410e7ac8f670"
+hash = "48768390d0ed8904ef38ffb095ff612b1f6b28d2a8300b1d3e4c67d02a2caf53"
 metafile = true
 
 [[files]]
@@ -212,12 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-journey-mounts.pw.toml"
-hash = "e0324afa610c80c586822e0b61ce09705f2db607cdd818ec8a9aaa972accbd65"
+hash = "6f434aa75689237a62052e70721a317f2dae34bc52be92ee1e3eab84bf5cce8a"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "91fd5470154759d64c3294a951d765153d6c404c1c11171ed0c3c2eff4c4c871"
+hash = "972a8b29551ffd24eeb03c23dc55d66a2dabcce4a433071eb9b41a0499e79583"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
+hash = "0d10973de4466406d116a7c0d976c7c7830e65510ad06b6c83e72b0310e09ad4"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
+hash = "49884f2d7db0e731facf0aa70cf2038dd513624c450cba773a8ca7a47e53953b"
 metafile = true
 
 [[files]]
@@ -472,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-lilis-pottery.pw.toml"
-hash = "d4c0e5878a0875d9b41a04295a39099d7d7097493565168a6c5c065fc57d8394"
+hash = "a18fd47b6c0ce7d42f171cece8565107fdfd60b4766e2608ad93f4e794f6fd63"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2b43dd7f21cccb1e342c3e3a0dbfbb0fb90001340e8ac78f9ab0df5752225c68"
+hash = "2bfbb542d901187d044b494a4f68d127a6628ca7cb6ddf3ac6a98da9f3fe9dec"
 metafile = true
 
 [[files]]
@@ -677,7 +677,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "1ded7c2ff2233ea8067289c2aaa9fc2da29d1311fc753f4d772016922a043416"
+hash = "857220cbd9e3ae276ec2a8ec2c6b2e6ee79a53b4727739bec3e42ec1e8f625c2"
 metafile = true
 
 [[files]]
@@ -817,12 +817,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ccc-journeymounts-compat.pw.toml"
-hash = "8aa6968835c1be0801759f28e8020e40d46e61c076d32eceb7bb4cd1f4f0494d"
+hash = "254599372892d711b473c8ea9c6a50ed6ffd2f19f1d76f63ab97100bde6c79f8"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "fe72cd0be21913b527573d5f28753d5e2b18a58a36593db11a5588809510d5b5"
+hash = "e8a4a5ded3fd3ad71f8882d870541a3edf5d8286d9182e9fd8c5990e570e7463"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemon-journey-mounts.pw.toml"
-hash = "b63f6a6d72c3c9f62ee49975d2bbdaae8b292ed55d1c2c3d952fd8e62d504281"
+hash = "495dbcd2926317ed19cd5b6010a126278e756e59cd3971d9269874bb26c52d15"
 metafile = true
 
 [[files]]
@@ -862,7 +862,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
-hash = "4bafce6c885cdfc320c9a713d519fd65e9eabe60bc9716bbebe638be96c8a20b"
+hash = "589adc61f7014b0c452a4b7c0c2fd790468692202d6197bf04337f70a49b2d04"
 metafile = true
 
 [[files]]
@@ -887,7 +887,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ae031c20f87c9c31796ac6effc2a6b43e85f08aa9ce71cdea0565257286b4fe2"
+hash = "59ca90cb58fbcf1b50f23496492e5abb23139c829287571a40eac41e27317478"
 metafile = true
 
 [[files]]

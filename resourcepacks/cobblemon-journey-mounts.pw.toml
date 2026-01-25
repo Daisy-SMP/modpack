@@ -1,13 +1,13 @@
 name = "Cobblemon Journey Mounts"
-filename = "Journey Mount 1.7.zip"
-side = "client"
+filename = "Journey Mounts 1.7.2.zip"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vn5WCYr6/versions/r1y2T0d2/Journey%20Mount%201.7.zip"
+url = "https://cdn.modrinth.com/data/Vn5WCYr6/versions/RKZyNI1R/Journey%20Mounts%201.7.2.zip"
 hash-format = "sha512"
-hash = "05bed297e114bf0632a01e6b658ca7d60befd1822aa1119809d4f74c3eb28360483e70064679fb9e7c0daeb50ef8b5ebafe843cc616d7ebd74f6ff102e185824"
+hash = "a8440d5bda91af8dc95ce90e6db39059e39c0ec314001a44af0d95ce840e401e09a6697b21571c35a069bdec4c56d35e84cca70513b332156ad4e260eaafeb1a"
 
 [update]
 [update.modrinth]
 mod-id = "Vn5WCYr6"
-version = "r1y2T0d2"
+version = "RKZyNI1R"

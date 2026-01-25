@@ -1,13 +1,13 @@
 name = "[Let's Do] Lili's Pottery"
-filename = "letsdo-lilis_pottery-fabric-1.0.0+hotfix.jar"
+filename = "letsdo-lilis_pottery-fabric-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sHiqiJIU/versions/nD2CbRJB/letsdo-lilis_pottery-fabric-1.0.0%2Bhotfix.jar"
+url = "https://cdn.modrinth.com/data/sHiqiJIU/versions/agdxyGMn/letsdo-lilis_pottery-fabric-1.0.1.jar"
 hash-format = "sha512"
-hash = "99723b3bb89c47b287370acb448e655ece04a1ff2b89125fb49e571cd726ba11c90cce55b8e69744aedf4806c800fb6790f6951027cf881492b88126d2c0029c"
+hash = "35715d7746a4c093c24fe3ae86d56cfa6e24b41d83e6a7e2c8ff16d3178200088e61b1b2d432ecb9dce7d60b7af550435e19522d245352147ecbba1974aa44db"
 
 [update]
 [update.modrinth]
 mod-id = "sHiqiJIU"
-version = "nD2CbRJB"
+version = "agdxyGMn"
