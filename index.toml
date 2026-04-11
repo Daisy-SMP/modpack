@@ -1,0 +1,90 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "a214097f59d73453a9ff341a629a0d95b4dcd8a263122293196b77aeb05a8917"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3fa7042499ca70691864ca28f7e797a489e8be41f7affbdcdbceae794817f72a"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "16c7b0ab1c8f843839f03b6a04584be1b15e592878f2f7c39e2004226e269eba"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "2a493de700fba9dc1925fd55366faa731a77c90dbd2991f89c8a8923c875d957"
+metafile = true
+
+[[files]]
+file = "mods/penchant.pw.toml"
+hash = "33f209af988ff86e7ee57f75925c48aac8298d407873c53424e82027a3ea8ba5"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "c35c79bb4e593e797ad15f9fa9d967d6391fc5c9c5aa4a947ce1554c02848a7c"
+metafile = true
+
+[[files]]
+file = "mods/simple-resource-loader.pw.toml"
+hash = "f8f5a13a845c5c8bbaf4abbdee49dccccb37d988c0d36445fe4585af285bf1b7"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "d9643d0a0e91ba543edf95557344f115ed451d58b1ab042baab7c8c7f4a9040f"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/CliffTree-dev-26.1.zip"
+hash = "87d6eb572a047c5ab945513e6475598ce2337e30daf1ce6bf419e5d78976c9d5"
+
+[[files]]
+file = "resources/datapack/required/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "ef508566664897106d138f57ec340d8e535d01eac37d2cc363584b79b7b70842"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "635e80631d5ef55e7e19c4bedc55cce7e31af86fa75847cc915a9ff86a60cd17"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "a44749e70f403caf5cce20e86ff3cc79b827bd838578a941afb725535c90adb3"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/dungeons-and-taverns-mineshaft-overhaul.pw.toml"
+hash = "7c44001c4833e1da54a5848c97fd27dae6b8ea93e137e40b9aa555f378194bad"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "cc711d7d86a14011c479d88f801d53843a95fd9ed50c8954b682a218aaa02830"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "848fab8255bfc204ad42d2ebe504909452d7c8f924a2c76a2c9c0658c093d9ea"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "2a41604b12b5a9f070e70b1f446ca85fb804dcebaa61881644ca0fd59fb50e19"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
+hash = "8445532cb7d73b4a062fda87754d3a2fd5748b38d7a874b9dae82f4237033dc0"
+metafile = true
+
+[[files]]
+file = "resources/datapack/required/dungeons-and-taverns.pw.toml"
+hash = "631bd565fa834ffcb645dbde9e4262e4c32254679817f186928f2e1241eaa546"
+metafile = true

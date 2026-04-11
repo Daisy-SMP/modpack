@@ -1,0 +1,14 @@
+{
+  "model": "cold",
+  "asset_id": "clifftree:entity/chicken/chicken_frosty",
+  "baby_asset_id": "clifftree:entity/chicken/chicken_frosty_baby",
+  "spawn_conditions": [
+    {
+      "condition": {
+        "type": "minecraft:biome",
+        "biomes": "#clifftree:chicken/spawns_frosty_chicken"
+      },
+      "priority": 2
+    }
+  ]
+}
