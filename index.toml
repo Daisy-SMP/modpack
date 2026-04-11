@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/daisy-server-utilities.pw.toml"
-hash = "3338350cc3eadb0d1cfce69b6aa2e2fc52b9ba3e02ba4e141143e5f1ffdd0fce"
+hash = "1d20d5e735e1f8484c0122f146b5e57a927145a4b10177d976143633b6d8da30"
 metafile = true
 
 [[files]]
