@@ -1,0 +1,13 @@
+name = "StrawberryLib"
+filename = "strawberrylib-26.1-r4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Ya7Yyre/versions/2J6aNTl6/strawberrylib-26.1-r4.jar"
+hash-format = "sha512"
+hash = "edd92d4e41a2019bcf6dd5f6b918bdd09162a1cfd7b88406079ff8466fbbc2c64cbde3f19f6d7db94a45fe80e918aee845a47b470dc89b11c82bfd526e7d6eef"
+
+[update]
+[update.modrinth]
+mod-id = "9Ya7Yyre"
+version = "2J6aNTl6"
