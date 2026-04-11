@@ -36,11 +36,6 @@ hash = "f8f5a13a845c5c8bbaf4abbdee49dccccb37d988c0d36445fe4585af285bf1b7"
 metafile = true
 
 [[files]]
-file = "mods/traverse.pw.toml"
-hash = "d9643d0a0e91ba543edf95557344f115ed451d58b1ab042baab7c8c7f4a9040f"
-metafile = true
-
-[[files]]
 file = "resources/common/required/ButterBee.zip"
 hash = "36bef565f787ca9b8c8d6fa19f5e2480e1836477b76208ecd6909e34435eaa26"
 
