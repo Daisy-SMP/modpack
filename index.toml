@@ -46,6 +46,11 @@ hash = "c35c79bb4e593e797ad15f9fa9d967d6391fc5c9c5aa4a947ce1554c02848a7c"
 metafile = true
 
 [[files]]
+file = "mods/rrv.pw.toml"
+hash = "468c3949ef0b878737977b1e648786771b8e0fe1102cf126c063f95618c480a6"
+metafile = true
+
+[[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "f8f5a13a845c5c8bbaf4abbdee49dccccb37d988c0d36445fe4585af285bf1b7"
 metafile = true
