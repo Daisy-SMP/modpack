@@ -6156,3 +6156,7 @@ metafile = true
 file = "resources/common/required/dungeons-and-taverns.pw.toml"
 hash = "631bd565fa834ffcb645dbde9e4262e4c32254679817f186928f2e1241eaa546"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "8cba08c0a0a6fa7ebd94bc219040570c625a61932723ea245c9d21f1cc3e7b61"
