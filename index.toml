@@ -21,6 +21,11 @@ hash = "3fa7042499ca70691864ca28f7e797a489e8be41f7affbdcdbceae794817f72a"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "f95e7cbad4b2f95f41432bb0e580a7fc29b7a0ab0dde656c989bc62dd61afb35"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "16c7b0ab1c8f843839f03b6a04584be1b15e592878f2f7c39e2004226e269eba"
 metafile = true
