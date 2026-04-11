@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/daisy-server-utilities.pw.toml"
+hash = "9a91376b8225ab571df67941aa135a0350a126654678c2b60601f8f4f8112e69"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "a214097f59d73453a9ff341a629a0d95b4dcd8a263122293196b77aeb05a8917"
 metafile = true

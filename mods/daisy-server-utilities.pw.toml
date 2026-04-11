@@ -1,0 +1,8 @@
+name = "daisy-server-utilities"
+side = "server"
+filename = "daisy-server-utilities-0.0.1-SNAPSHOT.jar"
+
+[download]
+hash-format = "sha256"
+url = "https://github.com/macuguita/daisy-server-utilitites/releases/download/update4/daisy-server-utilities-0.0.1-SNAPSHOT.jar"
+hash = "ed4b69f75dad84f13f5887a36346cb78000ea5ef139ba7d04ec702f74729de07"
