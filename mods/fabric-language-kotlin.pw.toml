@@ -1,5 +1,5 @@
 name = "Fabric Language Kotlin"
-side = "server"
+side = "both"
 filename = "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar"
 
 [update.modrinth]
