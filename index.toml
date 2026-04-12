@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "319e33f0c095431cac722aec0c44649e7aeed9aa47e87426dc02b78ba1821585"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "694f56ede9a6f2f6991a7d814463eab49718e04c103e297e8107e2bd2b38bd0d"
+metafile = true
+
+[[files]]
 file = "mods/daisy-server-utilities.pw.toml"
 hash = "1d20d5e735e1f8484c0122f146b5e57a927145a4b10177d976143633b6d8da30"
 metafile = true
@@ -23,6 +33,26 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "f95e7cbad4b2f95f41432bb0e580a7fc29b7a0ab0dde656c989bc62dd61afb35"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "bc607d08df6ed61aba08d5644f251c931999b201f8222d6b9ec278834472b80b"
+metafile = true
+
+[[files]]
+file = "mods/ledger-databases.pw.toml"
+hash = "5b422966b0ae2a53638c0a54e69b7968e6780ca46776c59cb7fea95968c45e3e"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "7f567b9ee49225f433bd3588e1fec3a41c12b763b577ed3cd3a49bc651c91ec8"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "bb010183d517db2e89589a6e81d9c7bc21705b22eefa91f1484148b52ddb6d83"
 metafile = true
 
 [[files]]
@@ -55,6 +85,11 @@ hash = "468c3949ef0b878737977b1e648786771b8e0fe1102cf126c063f95618c480a6"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
+metafile = true
+
+[[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "f8f5a13a845c5c8bbaf4abbdee49dccccb37d988c0d36445fe4585af285bf1b7"
 metafile = true
@@ -72,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/superb-steeds.pw.toml"
 hash = "41a4bb090b3a558ec52cdae310793d84f794f4366e7d72f65183b8fd2d1f6231"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "b66a17fe8040086fc7d621faada63775017c02d67ca303ee02dd406af6941d08"
 metafile = true
 
 [[files]]
