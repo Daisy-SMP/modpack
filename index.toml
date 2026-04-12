@@ -16,6 +16,10 @@ hash = "1d20d5e735e1f8484c0122f146b5e57a927145a4b10177d976143633b6d8da30"
 metafile = true
 
 [[files]]
+file = "mods/daisy_smp_tweaks-1.0.0.jar"
+hash = "ea947e726bd23b9e5642e0bacd77898ec13d6e56adb81f2fe3fc6abec5b3dde5"
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "a214097f59d73453a9ff341a629a0d95b4dcd8a263122293196b77aeb05a8917"
 metafile = true
@@ -63,10 +67,6 @@ metafile = true
 file = "mods/lootr.pw.toml"
 hash = "16c7b0ab1c8f843839f03b6a04584be1b15e592878f2f7c39e2004226e269eba"
 metafile = true
-
-[[files]]
-file = "mods/lumberjack-enchant-1.0.0.jar"
-hash = "3e37b00842cd31e57cb554a332ca7d65e51db2cc606e60e6b0289b7b151cf4ba"
 
 [[files]]
 file = "mods/origins.pw.toml"
