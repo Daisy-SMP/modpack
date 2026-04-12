@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/holdingskull-1.0.0.jar"
-hash = "fe9d2ccfc7feff11e983a3623b80be9fd92afa2a01174079e039579f1618e7ba"
+hash = "d9030d2052cbf80b3024826010342757db82b04e321482f1784883e651a7a238"
 
 [[files]]
 file = "mods/ledger-databases.pw.toml"
