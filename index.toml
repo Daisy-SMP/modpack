@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "8e180897bc7bf2c67c932e563220259357430a74166026f65b0944af023346db"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "694f56ede9a6f2f6991a7d814463eab49718e04c103e297e8107e2bd2b38bd0d"
 metafile = true
