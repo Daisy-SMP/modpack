@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/daisy_smp_tweaks-1.0.0.jar"
-hash = "3d9e9e424846033e15ffbbbb2fc6190f55582fa7d5f833b1587b9caf3d0430da"
+hash = "978ac4b823cabfd305e78388e58c8b843068636acdf823d0a141aaf92361431a"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
@@ -114,6 +114,11 @@ hash = "41a4bb090b3a558ec52cdae310793d84f794f4366e7d72f65183b8fd2d1f6231"
 metafile = true
 
 [[files]]
+file = "mods/trinkets-updated.pw.toml"
+hash = "d41a27e99de6a3e4d649bec0b0380d4fc44333e98766d01212f3434cf233d35e"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "b66a17fe8040086fc7d621faada63775017c02d67ca303ee02dd406af6941d08"
 metafile = true
@@ -125,6 +130,10 @@ hash = "36bef565f787ca9b8c8d6fa19f5e2480e1836477b76208ecd6909e34435eaa26"
 [[files]]
 file = "resources/common/required/CliffTree.zip"
 hash = "c356f8937a94d00e2626bd68f196a0231c1473c6ef8dd8673d7c41f276d4fbb6"
+
+[[files]]
+file = "resources/common/required/DaisySMPOrigins.zip"
+hash = "df6f26d4a851f121f5a5d41b463e58b7591cc264e838793321d685534fe4ed57"
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
