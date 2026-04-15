@@ -69,6 +69,10 @@ hash = "16c7b0ab1c8f843839f03b6a04584be1b15e592878f2f7c39e2004226e269eba"
 metafile = true
 
 [[files]]
+file = "mods/mysticsbiomes-1.0.0.jar"
+hash = "3c808ce249117fe64b4bb05c39d734706865e09f2eb18307278462e9a4300db4"
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "10528ad1f9d5951d60571b2e1d5de667bb1f7395c933fb96f0f387965780a2e4"
 metafile = true
