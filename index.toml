@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "8e180897bc7bf2c67c932e563220259357430a74166026f65b0944af023346db"
+hash = "33e4467aa6f5225a57e3aa0d0b085c89157d2e2608be3d1719718647a1d688d0"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "694f56ede9a6f2f6991a7d814463eab49718e04c103e297e8107e2bd2b38bd0d"
+hash = "8742faa491a43b5ae011971d75f0344fe8dc4b1f45d2a9094c8dbc1f90333d3a"
 metafile = true
 
 [[files]]
@@ -16,8 +16,8 @@ hash = "1d20d5e735e1f8484c0122f146b5e57a927145a4b10177d976143633b6d8da30"
 metafile = true
 
 [[files]]
-file = "mods/daisy_smp_tweaks-1.0.0.jar"
-hash = "e3a0d2c52729af59b3fda6e05297e14f44f9919cbc367ca22051ac5b7a67a461"
+file = "mods/daisy_smp_tweaks-1.0.0-sources.jar"
+hash = "dd4a278050de503be666e8b32b602f62065ff636557c68cdc5598a5c1bb51ee5"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3fa7042499ca70691864ca28f7e797a489e8be41f7affbdcdbceae794817f72a"
+hash = "667420ac98bdf5f6f7e747b83f9407722586e0c15b635ad295bef55449498474"
 metafile = true
 
 [[files]]
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "16c7b0ab1c8f843839f03b6a04584be1b15e592878f2f7c39e2004226e269eba"
+hash = "0d16bba6afc3b6ff63dc68b27ed19145b4cc8b10ee66642574d223870a42e333"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "468c3949ef0b878737977b1e648786771b8e0fe1102cf126c063f95618c480a6"
+hash = "f40957a188efa3f04f3143cc46c33a78067cfc5c7fec6b7b3603ecdd5505a3da"
 metafile = true
 
 [[files]]
@@ -137,51 +137,51 @@ hash = "c356f8937a94d00e2626bd68f196a0231c1473c6ef8dd8673d7c41f276d4fbb6"
 
 [[files]]
 file = "resources/common/required/DaisySMPOrigins.zip"
-hash = "df6f26d4a851f121f5a5d41b463e58b7591cc264e838793321d685534fe4ed57"
+hash = "233ad9aafe5a7672f23f304de9d0ca8e12042a64d7948deb556f1ac48ecd7a57"
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
-hash = "ef508566664897106d138f57ec340d8e535d01eac37d2cc363584b79b7b70842"
+hash = "dc70d618edbc3d67e29ff7bb0264faa6bc330a47f5a269f60a05c803bb9fb8c7"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
-hash = "635e80631d5ef55e7e19c4bedc55cce7e31af86fa75847cc915a9ff86a60cd17"
+hash = "6629e90b80cef74e7ef358a71a0baa6fb990d4eb0e5c06e4bed856c99a3db01d"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
-hash = "a44749e70f403caf5cce20e86ff3cc79b827bd838578a941afb725535c90adb3"
+hash = "073d9e3cd54b6417982106c006e42d9e37cb0543d3953f49fd0cbc2b0856e4b5"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-mineshaft-overhaul.pw.toml"
-hash = "7c44001c4833e1da54a5848c97fd27dae6b8ea93e137e40b9aa555f378194bad"
+hash = "c6c5c8e32aa6910302c55366f97171baa6c81e592d8e404b52c2a52d187dfe3c"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
-hash = "cc711d7d86a14011c479d88f801d53843a95fd9ed50c8954b682a218aaa02830"
+hash = "165ea8db8aaac2414bee605e0ad43646797e54856e9215f39cb2708117208fa2"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
-hash = "848fab8255bfc204ad42d2ebe504909452d7c8f924a2c76a2c9c0658c093d9ea"
+hash = "3ab15b5692534ed29589bf26ccbe3d8a8f86a25eef1c4115226a8fa2e3ad6d1a"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
-hash = "2a41604b12b5a9f070e70b1f446ca85fb804dcebaa61881644ca0fd59fb50e19"
+hash = "26eed7c888806f5a9b33d07cf31a9e8a32128cadbcc0c3fe2e427e19e30d75df"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
-hash = "8445532cb7d73b4a062fda87754d3a2fd5748b38d7a874b9dae82f4237033dc0"
+hash = "d2eaff6c7c090e99288189a98e522b6a02488158df6f158843bb93f85275d56a"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns.pw.toml"
-hash = "631bd565fa834ffcb645dbde9e4262e4c32254679817f186928f2e1241eaa546"
+hash = "7897b302a81d821dfd3c2c431d97b2020f631d228effcd000374c73fae8f7c2d"
 metafile = true
 
 [[files]]
