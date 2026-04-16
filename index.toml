@@ -141,47 +141,52 @@ hash = "78a0e3120c9eac8b0b197dcb00a83bb59b5176fe7a1920ae4247d432a177c860"
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
-hash = "dc70d618edbc3d67e29ff7bb0264faa6bc330a47f5a269f60a05c803bb9fb8c7"
+hash = "ef508566664897106d138f57ec340d8e535d01eac37d2cc363584b79b7b70842"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
-hash = "6629e90b80cef74e7ef358a71a0baa6fb990d4eb0e5c06e4bed856c99a3db01d"
+hash = "635e80631d5ef55e7e19c4bedc55cce7e31af86fa75847cc915a9ff86a60cd17"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
-hash = "073d9e3cd54b6417982106c006e42d9e37cb0543d3953f49fd0cbc2b0856e4b5"
+hash = "a44749e70f403caf5cce20e86ff3cc79b827bd838578a941afb725535c90adb3"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-mineshaft-overhaul.pw.toml"
-hash = "c6c5c8e32aa6910302c55366f97171baa6c81e592d8e404b52c2a52d187dfe3c"
+hash = "7c44001c4833e1da54a5848c97fd27dae6b8ea93e137e40b9aa555f378194bad"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
-hash = "165ea8db8aaac2414bee605e0ad43646797e54856e9215f39cb2708117208fa2"
+hash = "cc711d7d86a14011c479d88f801d53843a95fd9ed50c8954b682a218aaa02830"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
-hash = "3ab15b5692534ed29589bf26ccbe3d8a8f86a25eef1c4115226a8fa2e3ad6d1a"
+hash = "848fab8255bfc204ad42d2ebe504909452d7c8f924a2c76a2c9c0658c093d9ea"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "6305cfd0cc6b7cfb9f13d85dbb163349dd89fd79800885733a31ed9c60bd845a"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
-hash = "26eed7c888806f5a9b33d07cf31a9e8a32128cadbcc0c3fe2e427e19e30d75df"
+hash = "2a41604b12b5a9f070e70b1f446ca85fb804dcebaa61881644ca0fd59fb50e19"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
-hash = "d2eaff6c7c090e99288189a98e522b6a02488158df6f158843bb93f85275d56a"
+hash = "8445532cb7d73b4a062fda87754d3a2fd5748b38d7a874b9dae82f4237033dc0"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns.pw.toml"
-hash = "7897b302a81d821dfd3c2c431d97b2020f631d228effcd000374c73fae8f7c2d"
+hash = "631bd565fa834ffcb645dbde9e4262e4c32254679817f186928f2e1241eaa546"
 metafile = true
 
 [[files]]
