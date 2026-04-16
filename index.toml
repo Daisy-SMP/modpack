@@ -7,7 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b7b5d17a9d618a5819c2ae0b0d25f2ff1fde4ada6beb14d4cc5221162a1be0b6"
+hash = "1749a3e36d91044be7ebbfc4cfb7fc5932ee93663e7c712c70542423b6416947"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "4326b7571ab9f6ddf38cbd61f3387891363492220656012fc11ff4bfabb976b2"
 metafile = true
 
 [[files]]
