@@ -6,13 +6,18 @@ hash = "33e4467aa6f5225a57e3aa0d0b085c89157d2e2608be3d1719718647a1d688d0"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "b7b5d17a9d618a5819c2ae0b0d25f2ff1fde4ada6beb14d4cc5221162a1be0b6"
+metafile = true
+
+[[files]]
 file = "mods/daisy-server-utilities.pw.toml"
 hash = "1d20d5e735e1f8484c0122f146b5e57a927145a4b10177d976143633b6d8da30"
 metafile = true
 
 [[files]]
-file = "mods/daisy_smp_tweaks-1.0.0.jar"
-hash = "6bba9bc1630203b322f2249c1ca1349906e4e8d0c189a14f1da3d7d3b6e1c44c"
+file = "mods/daisy_smp_tweaks-1.0.0-sources.jar"
+hash = "a0032b59540e8284031d6424d1122f6b0a27c458d16bbf93e9a059d2ecd9e8e7"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
@@ -65,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/mysticsbiomes-1.0.0.jar"
-hash = "3c808ce249117fe64b4bb05c39d734706865e09f2eb18307278462e9a4300db4"
+hash = "7db2da50004b7d76aeeea515d026e42ded1e9929770df9371efb191381657bb6"
 
 [[files]]
 file = "mods/origins.pw.toml"
@@ -132,7 +137,7 @@ hash = "c356f8937a94d00e2626bd68f196a0231c1473c6ef8dd8673d7c41f276d4fbb6"
 
 [[files]]
 file = "resources/common/required/DaisySMPOrigins.zip"
-hash = "26dc594829959b6c2a01e2ef88aa3655bac2de4c19dc96050c3bb2baaa3b898b"
+hash = "78a0e3120c9eac8b0b197dcb00a83bb59b5176fe7a1920ae4247d432a177c860"
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
