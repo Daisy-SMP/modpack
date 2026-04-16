@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/daisy_smp_tweaks-1.0.0.jar"
-hash = "7049e713ec0874cb6859c9e126d27652f376e021dbf9bda3e1f40dfaa584c5eb"
+hash = "586b0e9d46f7e3067ae204aa071f8894f77367bd3cb59d1d156e1ba6f2f208a3"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/mysticsbiomes-1.0.0.jar"
-hash = "7db2da50004b7d76aeeea515d026e42ded1e9929770df9371efb191381657bb6"
+hash = "6293a378da88db94bc652706e873a37c003d44a673259fcd3e2bfd9488cb00bf"
 
 [[files]]
 file = "mods/origins.pw.toml"
