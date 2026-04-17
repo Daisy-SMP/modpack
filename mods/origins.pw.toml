@@ -1,7 +1,0 @@
-name = "Origins-Legacy"
-filename = "Origins-Legacy-1.12.4+26.1.2.jar"
-
-[download]
-url = "https://maven.macuguita.com/releases/com/macuguita/Origins-Legacy/1.12.4+26.1.2/Origins-Legacy-1.12.4+26.1.2.jar"
-hash-format = "sha256"
-hash = "400df8c56503e474d26d91c617fb8458a4aa433ec1573b629084d9cc0cbab698"

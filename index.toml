@@ -83,8 +83,8 @@ file = "mods/mysticsbiomes-1.0.0.jar"
 hash = "6293a378da88db94bc652706e873a37c003d44a673259fcd3e2bfd9488cb00bf"
 
 [[files]]
-file = "mods/origins.pw.toml"
-hash = "10528ad1f9d5951d60571b2e1d5de667bb1f7395c933fb96f0f387965780a2e4"
+file = "mods/origins-legacy.pw.toml"
+hash = "2b79d504ba38d2b6a64edfa9a360c065afcab854f276797ba4d6ede494bd394f"
 metafile = true
 
 [[files]]
