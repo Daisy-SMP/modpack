@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "33e4467aa6f5225a57e3aa0d0b085c89157d2e2608be3d1719718647a1d688d0"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "1749a3e36d91044be7ebbfc4cfb7fc5932ee93663e7c712c70542423b6416947"
 metafile = true
@@ -36,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "667420ac98bdf5f6f7e747b83f9407722586e0c15b635ad295bef55449498474"
+hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
 metafile = true
 
 [[files]]
