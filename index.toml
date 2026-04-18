@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/daisy_smp_tweaks-1.0.0.jar"
-hash = "cdcd97095ee7ec60607c6b4310a183adef38395960ab4b9b491722439d37e630"
+hash = "8bd4532d7bd1e529dab4487362fda51e86fb7b782e03bfafb73ed139bafdd2de"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/holdingskull-1.0.0.jar"
-hash = "c23c7e2d110abbb93f4aaf1f7f01c70d8a3d943a00803e844b896b12aec25580"
+hash = "4aeb9c8b4347684cddcea07ca25c829fd99e3057bfac8a4ca20b20a5e8d222e8"
 
 [[files]]
 file = "mods/iris.pw.toml"
