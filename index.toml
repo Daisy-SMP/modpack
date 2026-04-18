@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/daisy_smp_tweaks-1.0.0.jar"
-hash = "31ae62a74bce1e4f2c9bd7e81c8db0ff9fb68e266465e6692173ba1d0171afaf"
+hash = "cdcd97095ee7ec60607c6b4310a183adef38395960ab4b9b491722439d37e630"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
@@ -157,7 +157,7 @@ hash = "c356f8937a94d00e2626bd68f196a0231c1473c6ef8dd8673d7c41f276d4fbb6"
 
 [[files]]
 file = "resources/common/required/DaisySMPOrigins.zip"
-hash = "f61910a5031a871fd49d6c213ddf7fb3dfbfcb469cfc34982215881893cbe57c"
+hash = "f6643badfac171954be4d1a81c1465fc5b0850b0e4eb7cc4ceb321227b9c11aa"
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
