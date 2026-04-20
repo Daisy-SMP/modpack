@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "78e44e890b13bee5adabd215b0eb9fd3ce5a5a9d129745ef4ab9e1d0005124d8"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "1749a3e36d91044be7ebbfc4cfb7fc5932ee93663e7c712c70542423b6416947"
 metafile = true
@@ -41,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "bc607d08df6ed61aba08d5644f251c931999b201f8222d6b9ec278834472b80b"
+hash = "1a64f4d0199a8d2f2e26bafcbe123e27aa6cac538988ed4ddab3d8d54285bb0f"
 metafile = true
 
 [[files]]
@@ -65,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "bb010183d517db2e89589a6e81d9c7bc21705b22eefa91f1484148b52ddb6d83"
+hash = "1ca5ea1f0f97f7f89d35dc55ec25c45508f7928c7eb9dccbdae6a6395c7ff239"
 metafile = true
 
 [[files]]
@@ -139,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/strawberrylib.pw.toml"
-hash = "f1253ea367ac7f15ac013ecc2347854ef3df2c428bc5a8e5820671c8253526e3"
+hash = "00c7d3280ba549315ccf829946345937231287768fd778007e6dc7cf101ff50b"
 metafile = true
 
 [[files]]
@@ -149,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-updated.pw.toml"
-hash = "b94281a1565446b98b9a622a4169baae98b97c908e63174bf74b2529e75ac599"
+hash = "5f33d84974395b3c38e3a29e43f878f1d9b643e4f66c8dbb8eb9e0671fe731a7"
 metafile = true
 
 [[files]]
@@ -218,6 +223,10 @@ metafile = true
 file = "resources/common/required/dungeons-and-taverns.pw.toml"
 hash = "0f2036d9d6a9cca7ab9880d42f5ff8a05b6c1546d27006032d17337c071b716f"
 metafile = true
+
+[[files]]
+file = "resources/datapack/required/player head drops v1.1.16 (MC 26.1).zip"
+hash = "4caf74b5402bdd78018ccd93a3578790c5151380eed57803f149732798a0165b"
 
 [[files]]
 file = "servers.dat"

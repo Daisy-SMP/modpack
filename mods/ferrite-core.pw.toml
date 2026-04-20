@@ -1,5 +1,5 @@
 name = "FerriteCore"
-side = "server"
+side = "both"
 filename = "ferritecore-9.0.0-fabric.jar"
 
 [update.modrinth]
