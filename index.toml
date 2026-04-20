@@ -83,6 +83,16 @@ file = "mods/mysticsbiomes-1.0.0.jar"
 hash = "6293a378da88db94bc652706e873a37c003d44a673259fcd3e2bfd9488cb00bf"
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "526aa1bf510ced14a3bbbfaacecfb3602c6336f271dba2c9778e22758c81f8ca"
+metafile = true
+
+[[files]]
 file = "mods/origins-legacy.pw.toml"
 hash = "2b79d504ba38d2b6a64edfa9a360c065afcab854f276797ba4d6ede494bd394f"
 metafile = true
