@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "c8af456eca8937d460efd4fc72934ff0f0d2d042ab73880258f63bda4104e16f"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "78e44e890b13bee5adabd215b0eb9fd3ce5a5a9d129745ef4ab9e1d0005124d8"
 metafile = true
@@ -22,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/daisy_smp_tweaks-1.0.0.jar"
-hash = "996506114f87a03fb441ba49d7def3246127abe9496c4d7c60b849f98c43d118"
+hash = "4def1df74aac6288fd817975ff89b343506b1178feda7b0f9b2a90582f34384b"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
@@ -51,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/holdingskull-1.0.0.jar"
-hash = "a70682c0d71f0cffed483737d1728e0fd988071bab58a3ee856dfc05f00a4cad"
+hash = "bd5ac86084039fe663f7f50b5d9fdcd0b098fdd769edd0f2a1734e788b756495"
 
 [[files]]
 file = "mods/iris.pw.toml"
@@ -85,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/mysticsbiomes-1.0.0.jar"
-hash = "6293a378da88db94bc652706e873a37c003d44a673259fcd3e2bfd9488cb00bf"
+hash = "9445841fe243b2f1b8cdcf76925461315ba6f9a2dfbaf144ccffdabe07c4e4fe"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
