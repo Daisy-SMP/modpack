@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/holdingskull-1.0.0.jar"
-hash = "bd5ac86084039fe663f7f50b5d9fdcd0b098fdd769edd0f2a1734e788b756495"
+hash = "814a1665f42a9a6c670a7a506b96a126da5d53bd638088ae9faeabc6fc642d52"
 
 [[files]]
 file = "mods/iris.pw.toml"
