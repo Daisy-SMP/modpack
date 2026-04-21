@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "ba53db27b0a03a9c3e07f0f1c453b98621b4c8bb76fd4fe5eb04a1901aaea40d"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "c8af456eca8937d460efd4fc72934ff0f0d2d042ab73880258f63bda4104e16f"
 metafile = true
