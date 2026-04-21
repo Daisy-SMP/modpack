@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "1d07aae485a2a92527e66367b656e743ec6e84471296f2f93bee163de3eb5460"
+metafile = true
+
+[[files]]
 file = "mods/artifacts.pw.toml"
 hash = "ba53db27b0a03a9c3e07f0f1c453b98621b4c8bb76fd4fe5eb04a1901aaea40d"
 metafile = true
