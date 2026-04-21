@@ -21,6 +21,10 @@ hash = "4326b7571ab9f6ddf38cbd61f3387891363492220656012fc11ff4bfabb976b2"
 metafile = true
 
 [[files]]
+file = "mods/daisy-server-utilities-0.0.1-SNAPSHOT.jar"
+hash = "7a3db8a158df07c44064c4665ffa23ec34af27c7b327e9414c50f7d08303722e"
+
+[[files]]
 file = "mods/daisy-server-utilities.pw.toml"
 hash = "d33c6b6a47b8bedba49be0615364ad3027948e37333c21730b05e0f0d010867e"
 metafile = true
