@@ -1,0 +1,13 @@
+name = "macu lib"
+filename = "macu_lib-2.0.2+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XnLNz8og/versions/EWNeUq0f/macu_lib-2.0.2%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "8e302e7aaabfa90ad24d6d1f227d2497d9d356702afb39a510972dfbabdbfa5ed0f98c710c77eeee141e36df93356eeec98dfe3b90219afaf13afee26ebd5949"
+
+[update]
+[update.modrinth]
+mod-id = "XnLNz8og"
+version = "EWNeUq0f"

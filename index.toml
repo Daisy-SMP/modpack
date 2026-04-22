@@ -75,6 +75,11 @@ hash = "1a64f4d0199a8d2f2e26bafcbe123e27aa6cac538988ed4ddab3d8d54285bb0f"
 metafile = true
 
 [[files]]
+file = "mods/guitas-backpacks.pw.toml"
+hash = "52676ac7477d76318e022ee9f7a0bfdd95a8f1ac440dc89c9809fc05f5c5db7a"
+metafile = true
+
+[[files]]
 file = "mods/holdingskull-1.0.0.jar"
 hash = "814a1665f42a9a6c670a7a506b96a126da5d53bd638088ae9faeabc6fc642d52"
 
@@ -101,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "0d16bba6afc3b6ff63dc68b27ed19145b4cc8b10ee66642574d223870a42e333"
+metafile = true
+
+[[files]]
+file = "mods/macu-lib.pw.toml"
+hash = "b13d8eecd3a675da59f5a46bab267c92c3bede7080fb66da0666f3b5080ca7d3"
 metafile = true
 
 [[files]]
