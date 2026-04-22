@@ -31,6 +31,11 @@ hash = "4326b7571ab9f6ddf38cbd61f3387891363492220656012fc11ff4bfabb976b2"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "181b795f314ec32dc270381bc022813e46e5ec7372faa582d5d81ce00334097d"
+metafile = true
+
+[[files]]
 file = "mods/daisy-server-utilities.pw.toml"
 hash = "e10ec9a0d303d4291108d2b298fce84c77f89418a8db8ac92758578e3d1770b5"
 metafile = true
@@ -57,6 +62,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "09ad63c169ae7d982289494b6e4b49557a04be616afc65bd327ea346e3d3c7c5"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "deabee53f605f55b3a22ee8be2c29491b1f9556ad5cc6ece87a39d6f5bd025ae"
 metafile = true
 
 [[files]]
@@ -118,6 +128,11 @@ hash = "2b79d504ba38d2b6a64edfa9a360c065afcab854f276797ba4d6ede494bd394f"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "2df6e71ac01b886ff496669c5cd6d8c89ca358c655ca4983487d09e6b7d2728c"
+metafile = true
+
+[[files]]
 file = "mods/penchant.pw.toml"
 hash = "33f209af988ff86e7ee57f75925c48aac8298d407873c53424e82027a3ea8ba5"
 metafile = true
@@ -140,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "203d42492129587a4855fea42ccd7de3f1024c5ab857faae1e4d2a50977774e8"
 metafile = true
 
 [[files]]
