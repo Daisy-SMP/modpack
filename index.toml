@@ -31,11 +31,6 @@ hash = "4326b7571ab9f6ddf38cbd61f3387891363492220656012fc11ff4bfabb976b2"
 metafile = true
 
 [[files]]
-file = "mods/cicada.pw.toml"
-hash = "181b795f314ec32dc270381bc022813e46e5ec7372faa582d5d81ce00334097d"
-metafile = true
-
-[[files]]
 file = "mods/daisy-server-utilities.pw.toml"
 hash = "e10ec9a0d303d4291108d2b298fce84c77f89418a8db8ac92758578e3d1770b5"
 metafile = true
@@ -72,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1a64f4d0199a8d2f2e26bafcbe123e27aa6cac538988ed4ddab3d8d54285bb0f"
-metafile = true
-
-[[files]]
-file = "mods/guitas-backpacks.pw.toml"
-hash = "52676ac7477d76318e022ee9f7a0bfdd95a8f1ac440dc89c9809fc05f5c5db7a"
 metafile = true
 
 [[files]]
@@ -135,11 +125,6 @@ metafile = true
 [[files]]
 file = "mods/origins-legacy.pw.toml"
 hash = "2b79d504ba38d2b6a64edfa9a360c065afcab854f276797ba4d6ede494bd394f"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "2df6e71ac01b886ff496669c5cd6d8c89ca358c655ca4983487d09e6b7d2728c"
 metafile = true
 
 [[files]]
