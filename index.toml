@@ -168,11 +168,6 @@ hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
 metafile = true
 
 [[files]]
-file = "mods/show-me-your-skin.pw.toml"
-hash = "203d42492129587a4855fea42ccd7de3f1024c5ab857faae1e4d2a50977774e8"
-metafile = true
-
-[[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "f8f5a13a845c5c8bbaf4abbdee49dccccb37d988c0d36445fe4585af285bf1b7"
 metafile = true
