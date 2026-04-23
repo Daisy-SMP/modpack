@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/daisy_smp_tweaks-1.0.0.jar"
-hash = "593de53d93af8d0309e456a5792530bde6bfe629ea7d663a9e5acf4efca18982"
+hash = "daae65240c0848b7fd300839aca950d225c3a220b987b989b5488421c94f876e"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
