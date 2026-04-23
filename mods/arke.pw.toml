@@ -1,0 +1,13 @@
+name = "Arke"
+filename = "arke-1.1.0-beta.2+26.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cGgMT4Fy/versions/JoRX53L9/arke-1.1.0-beta.2%2B26.1.1.jar"
+hash-format = "sha512"
+hash = "46ae79954b4656da02182e187cef8567ea4a5c1cf3f08b4c73ceeb2bf46bde395640f74b612c7e6dea27e3a52552077a5570bdcdec4febd013477a45c20751f7"
+
+[update]
+[update.modrinth]
+mod-id = "cGgMT4Fy"
+version = "JoRX53L9"
