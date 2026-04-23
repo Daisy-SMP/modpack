@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/daisy_smp_tweaks-1.0.0.jar"
-hash = "6fae549b4b8787d7385194ad42ef6a414b7001072cc26e115cff6efabc744152"
+hash = "593de53d93af8d0309e456a5792530bde6bfe629ea7d663a9e5acf4efca18982"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
@@ -67,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1a64f4d0199a8d2f2e26bafcbe123e27aa6cac538988ed4ddab3d8d54285bb0f"
+metafile = true
+
+[[files]]
+file = "mods/guitas-backpacks.pw.toml"
+hash = "179cc31f0c1c61a69693fd90914b698f4713128840016ad6f7ba198feb0dac39"
 metafile = true
 
 [[files]]

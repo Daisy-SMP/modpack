@@ -1,0 +1,13 @@
+name = "guita's Backpacks"
+filename = "gbackpacks-26.1.2-beta+10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MjD9CI06/versions/m0xS76lu/gbackpacks-26.1.2-beta%2B10.jar"
+hash-format = "sha512"
+hash = "06432cad6817b279de50fcf6783b1043e86af3236e26ad109e1cd95f69942971e64f17eb0698dd36e4aa38041423a3da31ee7b5da6a5a3169e6d1e3d47a67151"
+
+[update]
+[update.modrinth]
+mod-id = "MjD9CI06"
+version = "m0xS76lu"
