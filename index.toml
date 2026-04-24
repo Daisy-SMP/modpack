@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/daisy-server-utilities.pw.toml"
-hash = "e10ec9a0d303d4291108d2b298fce84c77f89418a8db8ac92758578e3d1770b5"
+hash = "d1521f8b9ade94652205e84120240805e5772589a6e0d6e3869c40ac9c203053"
 metafile = true
 
 [[files]]
