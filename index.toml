@@ -148,6 +148,11 @@ hash = "bdf166f3bb8b6340354b73f26e4ee04cf434d504b3ca31883955cde6778d6902"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "2df6e71ac01b886ff496669c5cd6d8c89ca358c655ca4983487d09e6b7d2728c"
+metafile = true
+
+[[files]]
 file = "mods/penchant.pw.toml"
 hash = "33f209af988ff86e7ee57f75925c48aac8298d407873c53424e82027a3ea8ba5"
 metafile = true
