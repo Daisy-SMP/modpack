@@ -22,12 +22,12 @@ metafile = true
 
 [[files]]
 file = "mods/axiom.pw.toml"
-hash = "78e44e890b13bee5adabd215b0eb9fd3ce5a5a9d129745ef4ab9e1d0005124d8"
+hash = "defa5922fad9caacd92d44e30af29e77db62b680aec43438109ab6853d72eb0d"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1749a3e36d91044be7ebbfc4cfb7fc5932ee93663e7c712c70542423b6416947"
+hash = "7bdfbd2b3b10efe1c337b347ca44769cc1743984edbc7f49ae79d9761d6b485d"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "09ad63c169ae7d982289494b6e4b49557a04be616afc65bd327ea346e3d3c7c5"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/guitas-backpacks.pw.toml"
-hash = "179cc31f0c1c61a69693fd90914b698f4713128840016ad6f7ba198feb0dac39"
+hash = "1ababb7f455b4924e2e1815c4419c65b05d40e7fe32dd02458d20e70c7ef394b"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "0d16bba6afc3b6ff63dc68b27ed19145b4cc8b10ee66642574d223870a42e333"
+hash = "984cc6dfa636097fc7d4a0d65e0d3eacca5db13404d59d400ec96b37ce5aef9f"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-legacy.pw.toml"
-hash = "2b79d504ba38d2b6a64edfa9a360c065afcab854f276797ba4d6ede494bd394f"
+hash = "bdf166f3bb8b6340354b73f26e4ee04cf434d504b3ca31883955cde6778d6902"
 metafile = true
 
 [[files]]
@@ -165,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "eea92ab26e664146334272b206820309a87ba760a261dc7d48e37336fbead1bc"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Origins: Legacy"
-filename = "Origins-Legacy-1.12.3+26.1.2.jar"
+filename = "Origins-Legacy-1.12.4+26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mc1uvRn8/versions/W68CzUnL/Origins-Legacy-1.12.3%2B26.1.2.jar"
+url = "https://cdn.modrinth.com/data/mc1uvRn8/versions/wTGwvVqa/Origins-Legacy-1.12.4%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "a5cb686c02e764aa420f0d00b19ed77cb04490375d52578c53b63560dddf75839113b8317fd7240f27eb644b2ee71352e6d9ba6fc580ad6cccc4ad7a08c848aa"
+hash = "78c3af64fcfcdfdfb98cd6a33cdb4ae7640a2b2978c11f5b1cd6a5c1e92ecc7575e9fe46badd4c40583b54ff0d98a24cf258265a2d1874b07feae822a47348d2"
 
 [update]
 [update.modrinth]
 mod-id = "mc1uvRn8"
-version = "W68CzUnL"
+version = "wTGwvVqa"

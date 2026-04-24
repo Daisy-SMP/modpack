@@ -1,0 +1,7 @@
+name = "Show me your skin"
+filename = "show-me-your-skin-2.0.3+macuguita_fix+26.1.2.jar"
+
+[download]
+url = "https://codeberg.org/macuguita/show-me-your-skin/releases/download/2.0.3+macuguita_fix/show-me-your-skin-2.0.3+macuguita_fix+26.1.2.jar"
+hash-format = "sha256"
+hash = "7c1aea2555abd5fcea0b52c4bc0315e37880a1f5a592e9889477791d42f39c3d"
