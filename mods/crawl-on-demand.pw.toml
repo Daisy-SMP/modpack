@@ -1,0 +1,13 @@
+name = "Crawl on Demand"
+filename = "crawlondemand-26.1-1.3.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wcXLQVhg/versions/auXsU4MT/crawlondemand-26.1-1.3.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "bf38677ce1ea331e933ebed9177d300cdddf37aecf761485f0532ea2bf4fad313753e95e52ee5dc0abc3ae1d809836df147639bfeefccd1af35a39d33cbd217d"
+
+[update]
+[update.modrinth]
+mod-id = "wcXLQVhg"
+version = "auXsU4MT"

@@ -36,6 +36,11 @@ hash = "4326b7571ab9f6ddf38cbd61f3387891363492220656012fc11ff4bfabb976b2"
 metafile = true
 
 [[files]]
+file = "mods/crawl-on-demand.pw.toml"
+hash = "3bfa5100d1aa164fad21eb3de522cac5169c98d0a396ec042f2d136c5f80e1f0"
+metafile = true
+
+[[files]]
 file = "mods/daisy-server-utilities.pw.toml"
 hash = "e10ec9a0d303d4291108d2b298fce84c77f89418a8db8ac92758578e3d1770b5"
 metafile = true
