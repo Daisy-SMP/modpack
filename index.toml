@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/daisy-server-utilities.pw.toml"
-hash = "d1521f8b9ade94652205e84120240805e5772589a6e0d6e3869c40ac9c203053"
+hash = "2f3dc6a3934ffeae9edb4a772094277e96bc57b763298866c1acafeac2d9bbc9"
 metafile = true
 
 [[files]]
 file = "mods/daisy_smp_tweaks-1.0.0.jar"
-hash = "6c05647bec571a7deeb0e62ef3c5ea84ea85451caba1e08c2594fadd67ffc0df"
+hash = "e3673d0351492b289f884b2b3e59713aa3f500f2b26d97bd0bbefe64d6f5660e"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
