@@ -56,7 +56,7 @@ hash = "e3673d0351492b289f884b2b3e59713aa3f500f2b26d97bd0bbefe64d6f5660e"
 
 [[files]]
 file = "mods/emotecraft.pw.toml"
-hash = "a214097f59d73453a9ff341a629a0d95b4dcd8a263122293196b77aeb05a8917"
+hash = "f85842f22055252c426f3efffcceda3e0aa184f9e539183d9741c81f196005a1"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "deabee53f605f55b3a22ee8be2c29491b1f9556ad5cc6ece87a39d6f5bd025ae"
+hash = "a52c5c6ae5fe679fc5cefdf674521fb46f0071db709c3102a474c1bf7a3dafb7"
 metafile = true
 
 [[files]]
@@ -164,12 +164,12 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "c35c79bb4e593e797ad15f9fa9d967d6391fc5c9c5aa4a947ce1554c02848a7c"
+hash = "32f49ab49eb1180afe90ea9f767220deadcdbd902dae2276a87d3bcbf0cf64b9"
 metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "1e003e3649ac8c6f56894e4069edc746a85a67dad6cafb0d8f1312bba4f4ee5b"
+hash = "513ca53f622b76605ffce86420c14755ba57f0097c8b20d516cf5aab845e42d7"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
+hash = "030f69f3a7e275201c10eef33ae360341a3c280b06955134b6885aeaa8883d6a"
 metafile = true
 
 [[files]]
