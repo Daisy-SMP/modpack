@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1b7dddabe21e51ddc2a0f1a304523089c4aa80dfe03d1921fdb6847a9a7f1065"
+hash = "f88b106c6c7500d912c11c973d9c124d52b1577c52630c282720367312452d24"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "a52c5c6ae5fe679fc5cefdf674521fb46f0071db709c3102a474c1bf7a3dafb7"
+hash = "9df8ec931dda5befac953daf290e0041512522d864e7c4f019aed1e0817ba8b9"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "984cc6dfa636097fc7d4a0d65e0d3eacca5db13404d59d400ec96b37ce5aef9f"
+hash = "121dde2e965c0e757cd0a09a883dddac9ba39ce0ce8a1d3fd5404c46ec87e411"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrv.pw.toml"
-hash = "513ca53f622b76605ffce86420c14755ba57f0097c8b20d516cf5aab845e42d7"
+hash = "d0041391c118879dd17a13eccef2355bded2e43c44e2d744d3a2723a3b87bc82"
 metafile = true
 
 [[files]]
