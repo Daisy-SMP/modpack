@@ -1,0 +1,13 @@
+name = "Daisy Create"
+author = "ME"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c7bc1c24f9782b4dae7da398037f0540d83af70f19f852c3cd27377d1028e7fd"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
