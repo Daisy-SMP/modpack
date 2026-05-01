@@ -1,0 +1,13 @@
+name = "CliffTree"
+filename = "CliffTree-3.1.5-1.21.1_backport.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/59ypHk8x/versions/dp8bndSW/CliffTree-3.1.5-1.21.1_backport.zip"
+hash-format = "sha512"
+hash = "aa6db610f40bb6ed6e8d59d27809028d30fb2b4684d82b8ce545b70e056070b3e935f54efbe3ecb9fe2ada32133f5be8be03f797c281f66a68e01d765fb7bfb1"
+
+[update]
+[update.modrinth]
+mod-id = "59ypHk8x"
+version = "dp8bndSW"
