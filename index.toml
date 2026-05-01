@@ -151,6 +151,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "89ffd1297ebc4b0ac4773a5b9483f765c5cfe3fa034767da61129820c47de965"
+metafile = true
+
+[[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
 metafile = true
@@ -201,6 +206,11 @@ hash = "3a3739d2099783ff3d58a71ffb7bf61e5ed34a001c459b3eff1e2781476bc1fd"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "723db09a5eaf35e84c1ac8f7b4bfd209804e96ec5a8990a0c80d97355d73c471"
+metafile = true
+
+[[files]]
 file = "mods/trimmed.pw.toml"
 hash = "28db7535fae8c33b5547fefefdd88ead89c7edd7c1f330a5f370dca76e6706c9"
 metafile = true
@@ -219,3 +229,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "8cba08c0a0a6fa7ebd94bc219040570c625a61932723ea245c9d21f1cc3e7b61"
