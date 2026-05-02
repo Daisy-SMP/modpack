@@ -111,11 +111,6 @@ hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
 metafile = true
 
 [[files]]
-file = "mods/durability-begone.pw.toml"
-hash = "d7563ee63a08f9db71def4a48bdee816056107bd850ad3a36997fa37473fdadd"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
