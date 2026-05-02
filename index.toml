@@ -111,6 +111,11 @@ hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
 metafile = true
 
 [[files]]
+file = "mods/durability-begone.pw.toml"
+hash = "d7563ee63a08f9db71def4a48bdee816056107bd850ad3a36997fa37473fdadd"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
@@ -123,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/enderscape.pw.toml"
 hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "e756b52951b3d81c99bfebb6bcf7db8e385bb250cbdf4e8d68cc79d1c727e049"
 metafile = true
 
 [[files]]
@@ -146,6 +156,11 @@ hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
+file = "mods/guitas-woodworks.pw.toml"
+hash = "4a46b153382784bbf392a1feb87ea6159e0a5a23cd36a41f308ddb0a88aac4e7"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -166,8 +181,18 @@ hash = "004c675eb49f349d33d83d031c3cc406483d5e13133a05e93de8f4ae22ef5df9"
 metafile = true
 
 [[files]]
+file = "mods/macu-lib.pw.toml"
+hash = "4949f567825f217736c29ec4e772b5d69142b6731ccc2a55ed015311742b5155"
+metafile = true
+
+[[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
 metafile = true
 
 [[files]]

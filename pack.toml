@@ -1,12 +1,12 @@
 name = "Daisy Create"
-author = "ME"
+author = "macuguita"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4fb3c37ec01b610ac616e5db50d7e587f36056e124e7b08cdb9f3f718e6a7cef"
+hash = "8cd4870a668464b3e4b6cd3fbaadea87f112080dfdae4f9381579a46a4bffb80"
 
 [versions]
 minecraft = "1.21.1"
