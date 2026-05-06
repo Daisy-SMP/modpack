@@ -336,10 +336,6 @@ hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
 
 [[files]]
-file = "mods/tetra-1.21.1-6.13.0.jar"
-hash = "c224f6791ffa2da51c07bf6b89ef09336fde5066efb156758f3963130a621308"
-
-[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
