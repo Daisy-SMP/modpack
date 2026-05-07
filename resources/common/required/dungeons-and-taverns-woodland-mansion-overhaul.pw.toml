@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns Woodland Mansion Overhaul"
+filename = "DnT Woodland Mansion Replacement v1.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3GfxWFCy/versions/g485D38Q/DnT%20Woodland%20Mansion%20Replacement%20v1.2.zip"
+hash-format = "sha512"
+hash = "d4f404d29cfb499a5a22216d6f70e91e156358a38f7d93ab4541ee5cb4c6752bd23f81222836fa0e743f4899153f0c021cef3d8537b49b1f9a2c9b7bdbe95b44"
+
+[update]
+[update.modrinth]
+mod-id = "3GfxWFCy"
+version = "g485D38Q"

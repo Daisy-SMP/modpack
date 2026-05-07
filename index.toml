@@ -386,5 +386,60 @@ hash = "df375d65869e896e48db6be5740054160ab89b328da0ef183d24661eaf216144"
 metafile = true
 
 [[files]]
+file = "resources/common/required/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "009547b5c9b1322962ebd7046baa4e50256940bd4b0ee2ed9ff42e8159a87d3e"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "4855d39f4603acbbbd3afe35b5ff7ca25b988784ba0745a312928d9b4424dc07"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-end-castle-standalone.pw.toml"
+hash = "bc82ca1c6b57749484bc2786558fcc743c5a2cf21c066e5a72e9eacda9a1f1de"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "af6f58dbe6ec8b7a19923d4da64619dde118bf591ada23745f76adb9b3b19eb8"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "a1c8be44afcf85da613cb320445e66b58520742f43d26c561cd6345af96ce686"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "0a7ca9948e441f8892493b982faf0e2aa434223cb5223c06db4b2236712788f0"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "bf759cd548bd8f825fdc788ddf2e5c77f6cc24ee42d560dba659dfe4fc038ddd"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "11b4c782ea1a623fcbed85d325aab728542e63bd812620be5fd7ef31204c9940"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "d45d1666ec96286df2fc2026f76b3c6ab0b096148d53698981aea479883c5abc"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
+hash = "db498a767cb11f4cf7f41c0e646b0b5bf5aba10ae255136ab0a2403fbc3ac354"
+metafile = true
+
+[[files]]
+file = "resources/common/required/dungeons-and-taverns.pw.toml"
+hash = "20abe9a665ed77b271bd132e646a21d73a057aec4a5e9f6f3889267518d1ec6c"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "8cba08c0a0a6fa7ebd94bc219040570c625a61932723ea245c9d21f1cc3e7b61"
