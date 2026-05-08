@@ -1,13 +1,13 @@
 name = "Dungeons and Taverns Nether Fortress Overhaul"
-filename = "DnT Nether Fortress Overhaul v2.4.zip"
 side = "both"
+filename = "DnT Nether Fortress Overhaul v2.4.zip"
+pin = true
 
-[download]
-url = "https://cdn.modrinth.com/data/8Dbnvm77/versions/3UyS1yBA/DnT%20Nether%20Fortress%20Overhaul%20v2.4.zip"
-hash-format = "sha512"
-hash = "3a5d8c0ee0187ba460eade9dbd2e1b1379c6b2ddcc5aba3bc3a556a30cd8b2607568cded52707fa98780fc34321b729963c47df334ff7eb7935542d4154d8078"
-
-[update]
 [update.modrinth]
 mod-id = "8Dbnvm77"
 version = "3UyS1yBA"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/8Dbnvm77/versions/3UyS1yBA/DnT%20Nether%20Fortress%20Overhaul%20v2.4.zip"
+hash = "3a5d8c0ee0187ba460eade9dbd2e1b1379c6b2ddcc5aba3bc3a556a30cd8b2607568cded52707fa98780fc34321b729963c47df334ff7eb7935542d4154d8078"

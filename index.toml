@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-sable.pw.toml"
-hash = "cc686a2a01e80740c102f62c2989ad5e69c675c86c2687b5d49063943506f010"
+hash = "dca685874f2da92b2ebaa715452ff85a6551a6342aae1395f6be874f5849e762"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dreams-and-desires.pw.toml"
-hash = "df536f068808076c24dac917d86d581886ae5fb912672ec949d9c71a1a7a7fb7"
+hash = "c308b557b01b6e6cc25ee8d6a1a7c78bca2b71be3ae645e40d10cf25259fabcd"
 metafile = true
 
 [[files]]
@@ -222,12 +222,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "004c675eb49f349d33d83d031c3cc406483d5e13133a05e93de8f4ae22ef5df9"
+hash = "bc2d592dc0107406f3564f968daf6b84d9379cdb66997305855ae68886fd5502"
 metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "9bc2d48df2e387c4003a2c52333e392fbb332b2fcc27899fb43d55ff8328d76e"
+hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c1165658adf85a81d3755e44a6905c64fc17e3cc5505223a67d2eb31cf9d2844"
+hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c4f12c7bf746bdf25719995f9da8626187e9f879a20e29a9b4854e2066ad20bc"
+hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "76949aba1e5611bb40de7cbf4652cf4d355b7ca9fa6223c6198e72c6ed3893ac"
+hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
 metafile = true
 
 [[files]]
@@ -361,8 +361,8 @@ hash = "ca37901ce16f10e30715edf354b5d08c500e60abdb7ce64da79ce04a3d880ced"
 metafile = true
 
 [[files]]
-file = "mods/vista.pw.toml"
-hash = "f0da028c13dc4c9ad963883ddfc23a1c7b46a15aba094f90f14dbcc31d2ab7c0"
+file = "mods/vista_tv.pw.toml"
+hash = "d9c4a1e28e89b967546eeb70565257a32c5a979a9cfc98c79b15bd52af35cf7d"
 metafile = true
 
 [[files]]
@@ -387,57 +387,57 @@ metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
-hash = "009547b5c9b1322962ebd7046baa4e50256940bd4b0ee2ed9ff42e8159a87d3e"
+hash = "b36b9e4e3534ee52f12fa7d0e8305665dabd81b4769257c39c8efa343bc45c6f"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
-hash = "4855d39f4603acbbbd3afe35b5ff7ca25b988784ba0745a312928d9b4424dc07"
+hash = "75cd2991e77bc38a9d2b0cd2dee255cb31776d08c5a5c8baf06b9c44a035caa4"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-end-castle-standalone.pw.toml"
-hash = "bc82ca1c6b57749484bc2786558fcc743c5a2cf21c066e5a72e9eacda9a1f1de"
+hash = "2817de3647bc114833b81ba15603dce791c49e77e262d5722f4f4a6ea31e62fc"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
-hash = "af6f58dbe6ec8b7a19923d4da64619dde118bf591ada23745f76adb9b3b19eb8"
+hash = "b57238588749073276955694bb88d5b17c306948f2cc2274bd7b57d79520685d"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
-hash = "a1c8be44afcf85da613cb320445e66b58520742f43d26c561cd6345af96ce686"
+hash = "94304746eb33cfe988c2906a798576791fd093e5e88f92d656410028f2fe9574"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
-hash = "0a7ca9948e441f8892493b982faf0e2aa434223cb5223c06db4b2236712788f0"
+hash = "b67d56b80a6cee3e8fa5ec488d5a35c734dca2b5e72172eb6051ea52f5aa5378"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
-hash = "bf759cd548bd8f825fdc788ddf2e5c77f6cc24ee42d560dba659dfe4fc038ddd"
+hash = "54cd1aedf57cbdbd5847496cf6cb9a98b79f80c6aab59892c3ba496c607cf697"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-stronghold-overhaul.pw.toml"
-hash = "11b4c782ea1a623fcbed85d325aab728542e63bd812620be5fd7ef31204c9940"
+hash = "17f69aa16894eddf791f45f4d2e23aa7ee9f7a4754e1c227d411dddabdfa9c2c"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
-hash = "d45d1666ec96286df2fc2026f76b3c6ab0b096148d53698981aea479883c5abc"
+hash = "6f7d3e89a1c14a50d4da159c3310ff93cd940764ad642fced48a9b619f8b0f64"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml"
-hash = "db498a767cb11f4cf7f41c0e646b0b5bf5aba10ae255136ab0a2403fbc3ac354"
+hash = "fc87a62616f73c9af14acaad5b45af009fb5eceb45c373aa9216718694c4f9c0"
 metafile = true
 
 [[files]]
 file = "resources/common/required/dungeons-and-taverns.pw.toml"
-hash = "20abe9a665ed77b271bd132e646a21d73a057aec4a5e9f6f3889267518d1ec6c"
+hash = "3fc4dab4adc842ad4917a6dfea4fbc3a3e267df753ab9c01a4b2767217de2b12"
 metafile = true
 
 [[files]]

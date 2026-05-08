@@ -1,13 +1,13 @@
 name = "Dungeons and Taverns Ancient City Overhaul"
-filename = "DnT Ancient City Overhaul v2.zip"
 side = "both"
+filename = "DnT Ancient City Overhaul v2.zip"
+pin = true
 
-[download]
-url = "https://cdn.modrinth.com/data/DNuNq5bb/versions/5AAIrzsA/DnT%20Ancient%20City%20Overhaul%20v2.zip"
-hash-format = "sha512"
-hash = "6d8ae762012a6cfb26ec9dc10f76a7c70320e7268444b30960bb8bdd5bd3b91593a4d574ad4c329f3a470d7adfbe31fea9945105cfa7602dc257f9a7d2dc7ca2"
-
-[update]
 [update.modrinth]
 mod-id = "DNuNq5bb"
 version = "5AAIrzsA"
+
+[download]
+hash-format = "sha512"
+url = "https://cdn.modrinth.com/data/DNuNq5bb/versions/5AAIrzsA/DnT%20Ancient%20City%20Overhaul%20v2.zip"
+hash = "6d8ae762012a6cfb26ec9dc10f76a7c70320e7268444b30960bb8bdd5bd3b91593a4d574ad4c329f3a470d7adfbe31fea9945105cfa7602dc257f9a7d2dc7ca2"
