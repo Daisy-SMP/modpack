@@ -26,8 +26,13 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "6d3310120df2ae7d791aafee16c7ebc6c05b71b6e88b56ebcf7f0acc392b5843"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "bec6d97f211954880e06d7199d4d6f0d760ef8af4e77591a4f5120f0e9d3b260"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
 
 [[files]]
@@ -47,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-sable.pw.toml"
-hash = "dca685874f2da92b2ebaa715452ff85a6551a6342aae1395f6be874f5849e762"
+hash = "a8001187462a7287204414792a9878734bc0840d0b8d7202518dd69e5c0efbb0"
 metafile = true
 
 [[files]]
@@ -162,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
+hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
 
 [[files]]
@@ -197,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
@@ -223,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/jinxedlib.pw.toml"
+hash = "3e554dc66addcfd71cb63622490742566a640ff0ed45366814aa901945bb4ebc"
 metafile = true
 
 [[files]]
@@ -252,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "3b7f0351a2473f8c3f8211539bc3ca1aa065acf90f3e3b5e8b68a433fc6ed21f"
+hash = "bbac8cbc56c4a1a14d30f0671a81252978b229066896cba45384c593f67fff7d"
 metafile = true
 
 [[files]]
@@ -272,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "0ca90a25548289e4149c3d8435d50b75ff28bb83f973bf3e2cdc8a0b4b911acc"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
 metafile = true
 
 [[files]]
@@ -317,17 +327,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+hash = "f69424b160b62446db83c2a637073cbdf3b000dbef87b51b2aae173dbdb7593e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "bce52f752c8d3bae9ed17dba8f96ec7ff3f1ab7032fe2258a9573e1a8657bb85"
+hash = "50e47fd9fadb581368eba709a8777b34b73938a0911cd436783979c032a0145f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "e6f7c1b43dbb3a62dd8638228eb17a942a37e6aa50a8f32e9625769c6d4e090e"
+hash = "3642ae8539b2af68e1169284a294aecc5fff94281e339dff0cdf767cd94de2f9"
 metafile = true
 
 [[files]]
@@ -337,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/surveyor.pw.toml"
-hash = "3a3739d2099783ff3d58a71ffb7bf61e5ed34a001c459b3eff1e2781476bc1fd"
+hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
 
 [[files]]
@@ -367,12 +377,12 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "ca37901ce16f10e30715edf354b5d08c500e60abdb7ce64da79ce04a3d880ced"
+hash = "f5e321f3657624719ecf252e91687929797aac207f3e1cdbe5ce40d9fef76db3"
 metafile = true
 
 [[files]]
 file = "mods/vista_tv.pw.toml"
-hash = "d9c4a1e28e89b967546eeb70565257a32c5a979a9cfc98c79b15bd52af35cf7d"
+hash = "094554b8c5af2dbdcbda924450ffb8e969864ceba5b110bdfa1375ba73d30d27"
 metafile = true
 
 [[files]]
