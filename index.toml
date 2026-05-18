@@ -156,6 +156,10 @@ hash = "739c9964988d60e0b35b24d95d8dc3792838b978ec9d87818cb720fc19376de6"
 metafile = true
 
 [[files]]
+file = "mods/daisysmptweaks-1.0.0.jar"
+hash = "f36f07b55fedba753cdfbf1a64fb5b6392931276547a10dc26f3357c14796cfe"
+
+[[files]]
 file = "mods/dap-ur-homies.pw.toml"
 hash = "19ff928a1c92265070c2795f21f5d6ee91c8a25beb9e9fe220cee5479317ba5d"
 metafile = true
