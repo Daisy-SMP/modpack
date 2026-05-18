@@ -350,9 +350,8 @@ hash = "084ba00d5d41d76f4975935f3ada0fb1fce41bce59dd3901f54684c3588cb9f6"
 metafile = true
 
 [[files]]
-file = "mods/surveyor.pw.toml"
-hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
-metafile = true
+file = "mods/surveyor-1.2.4+1.21.jar"
+hash = "a3af053d68e255e2721b43e31c0195fac9d2d1ad1536817dd562fc8ad0bcaaa5"
 
 [[files]]
 file = "mods/tectonic.pw.toml"
