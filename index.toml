@@ -6,6 +6,11 @@ hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
 metafile = true
@@ -180,6 +185,11 @@ hash = "c0311b43abc0999f9c1d70c2c6c19f56ee01f86b56c99b61a37507a095988652"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
@@ -192,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/enderscape.pw.toml"
 hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
 metafile = true
 
 [[files]]
@@ -217,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
@@ -250,6 +270,11 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "a94b56dea7472ec5354c8c131b2f397bc319fe8cafdb537a472f7dfc1894d167"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
@@ -262,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
 
 [[files]]
@@ -282,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/mcqoy.pw.toml"
 hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "1b0bcb6b0739ac51a706398c6f3765e1875e95490a9284603ee5628c259a4f63"
 metafile = true
 
 [[files]]
