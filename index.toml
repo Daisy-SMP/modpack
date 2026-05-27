@@ -56,6 +56,11 @@ hash = "cda5fd4dae1f3c7b03f4c12101086d46941301a370ab5f2d9a546838a289f3bf"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "6dc9443f66c77a942c58a0c1e827dc3daa7eb4e6fb0d7039862b5c5b6a00b505"
+metafile = true
+
+[[files]]
 file = "mods/cc-sable.pw.toml"
 hash = "a8001187462a7287204414792a9878734bc0840d0b8d7202518dd69e5c0efbb0"
 metafile = true
@@ -340,6 +345,11 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
+file = "mods/no-mans-land.pw.toml"
+hash = "34d83900eb19f1731401597e73536efb90e1bcf2745424ad4d33abfd149aef42"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
@@ -357,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/player-animation-library.pw.toml"
 hash = "252547b364471df931005a57234082388e74eed949387ef39d17ce5fc56e190d"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
