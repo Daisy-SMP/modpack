@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/mixed-litter-disable.pw.toml"
+hash = "0efdc4ebfbfeef25aaa45b13fc3cd0f3f0d68351c9dc0020c74806763b7a796d"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs(1.21.1).pw.toml"
 hash = "fb53bc6c0d543cd7e88a5faba1e3235dca6c556e0cf8c1a534bbdec581c3c2f8"
 metafile = true
@@ -546,3 +551,7 @@ metafile = true
 [[files]]
 file = "servers.dat"
 hash = "8cba08c0a0a6fa7ebd94bc219040570c625a61932723ea245c9d21f1cc3e7b61"
+
+[[files]]
+file = "unsup.toml"
+hash = "d36a8a8ab3ccc059c050e6a91d6b8339a95d964bcc8a584ad64066ea57662b40"

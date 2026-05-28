@@ -1,0 +1,15 @@
+[flavor_groups.mixed-litter]
+name = "Mixed litter"
+side = "client"
+description = "A mod that remodels minecraft's vanilla animals."
+[[flavor_groups.mixed-litter.choices]]
+id = "mixed-litter_accept"
+name = "Yes"
+description = "You want to enable the remodels of vanilla animals."
+[[flavor_groups.mixed-litter.choices]]
+id = "mixed-litter_decline"
+name = "No"
+description = "You do not want to enable the remodels of vanilla animals."
+
+[metafile.mixed-litter-disable]
+flavors="mixed-litter_decline"
