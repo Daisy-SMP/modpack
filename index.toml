@@ -171,13 +171,18 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/creeper-spores-fabric.pw.toml"
+hash = "f78ed20d8bc7f7eecd567b8005f88474ff2f8b1bee49572d0c4124c90d8e4f5e"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
-file = "mods/daisy-server-utilities.pw.toml"
-hash = "6c2a406e2e4a024bf531a53ecbf53503f30c732774af187ed3958af106b50981"
+file = "mods/daisy-server-utilitites.pw.toml"
+hash = "196c378e97363971d31c65753456396e485f3cf950dab08ea38e38470af76d79"
 metafile = true
 
 [[files]]
@@ -281,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "a94b56dea7472ec5354c8c131b2f397bc319fe8cafdb537a472f7dfc1894d167"
+hash = "b3d436a516d9d027dae6d62a80ee181bcac74f1c77688bb831318ddff476c76a"
 metafile = true
 
 [[files]]
@@ -306,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "3f1fe26d26eaf43c0d7916ee8f8cdf7714a478fc6e09883e931a1f354a6532f0"
+hash = "03db1002af8f411a1b594817232859247e352f16f1c7907d29893b3472dce440"
 metafile = true
 
 [[files]]
@@ -356,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "34d83900eb19f1731401597e73536efb90e1bcf2745424ad4d33abfd149aef42"
+hash = "1b813f367f5fb795bfd22fb78392da5f654be59ab9bc138242c1664bd540882e"
 metafile = true
 
 [[files]]
@@ -411,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
+hash = "a4af1bf7389eddd65fb5b665b711e0b25e9e8ccb6b17a1fb50aff8d886859ad6"
 metafile = true
 
 [[files]]
