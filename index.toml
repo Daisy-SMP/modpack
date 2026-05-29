@@ -330,6 +330,11 @@ hash = "604b7674b96d10b2c9f03e47a91ec50b448e8193de56f36fca93b5ff0f3132f6"
 metafile = true
 
 [[files]]
+file = "mods/mixed-litter.pw.toml"
+hash = "9fe1070fb051ee1923e4014e444aa69b8581aca60dbffad379318062f7fb9290"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
