@@ -1,13 +1,13 @@
 name = "Mixed Litter"
-filename = "mixed_litter-1.2.0.jar"
+filename = "mixed_litter-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cU1kDASI/versions/wKW5gGB4/mixed_litter-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/cU1kDASI/versions/uuqSppKD/mixed_litter-1.2.1.jar"
 hash-format = "sha512"
-hash = "585f0b02afce9027b099c25a6125c1371e5ae372347c9905c86b43495220b7b4fb636756eacceacbd5bf732e01ba2f80beec64e8bf4758cbe1e358d097ac60f6"
+hash = "095562fc90b286aa2765a401477d92c6b37bdae88812fadebde17f33ba71302e097cea1c04ff90533280cee37c46f834f60bedc5fce6378e7276d4d92f51bb3c"
 
 [update]
 [update.modrinth]
 mod-id = "cU1kDASI"
-version = "wKW5gGB4"
+version = "uuqSppKD"
