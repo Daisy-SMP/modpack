@@ -1,13 +1,13 @@
 name = "macu lib"
-filename = "macu_lib-2.0.2+1.21.1-neoforge.jar"
+filename = "macu_lib-2.0.3+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XnLNz8og/versions/LDhxOoqS/macu_lib-2.0.2%2B1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/XnLNz8og/versions/r2U557qD/macu_lib-2.0.3%2B1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "8a641f90eb975dbeff1f756a33e4798d9acc75e6762fef5207487f5210739bb72e9c3e1b6100a3822fa79b942bc429908dacdd63e51b83cc2029dce91dbbcb7a"
+hash = "f0fe55ff1fc29855c0db0c6265b36ac2786d83e74003ebbdfc08506fd59f133c2c64798de295db1d177dfc4720db05f5be91292711469c466ebd134158ef0a86"
 
 [update]
 [update.modrinth]
 mod-id = "XnLNz8og"
-version = "LDhxOoqS"
+version = "r2U557qD"
